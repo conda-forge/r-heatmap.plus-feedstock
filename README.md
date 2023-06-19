@@ -1,11 +1,11 @@
-About r-heatmap.plus
-====================
+About r-heatmap.plus-feedstock
+==============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-heatmap.plus-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=heatmap.plus
 
 Package license: GPL-2.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-heatmap.plus-feedstock/blob/main/LICENSE.txt)
 
 Summary: Allows heatmap matrix to have non-identical X- and Y-dimensions.  Allows multiple tracks of annotation for RowSideColors and ColSideColors.
 
